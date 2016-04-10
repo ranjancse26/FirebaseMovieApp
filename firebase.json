@@ -1,0 +1,9 @@
+{
+  "firebase": "movieappdemo",
+  "public": "movieapp",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
